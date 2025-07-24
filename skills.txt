@@ -1,0 +1,1 @@
+Скиллы которые будут изучены на курсе: Javascript, Playwrightm, QA Automation, Git.
